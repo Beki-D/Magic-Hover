@@ -1,7 +1,7 @@
 # Magic-Hover
 ![Linear website screnshot](Linear-snap.PNG)
 
-This is a cool hover effect implemented on the Linear website: https://linear.app/
+This is a cool hover effect implemented on the Linear website: https://linear.app/features
 
 It's a website with a nice clean UI. The guy over on youtube at Hyperplexed channel recreated the hover effect. Pretty cool dude - I like his voice. 
 Check out his video: https://www.youtube.com/watch?v=htGfnF1zN4g&t=56s
