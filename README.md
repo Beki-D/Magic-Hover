@@ -1,4 +1,5 @@
 # Magic-Hover
+![Linear website screnshot](Linear-snap.PNG)
 
 This is a cool hover effect implemented on the Linear website: https://linear.app/
 
